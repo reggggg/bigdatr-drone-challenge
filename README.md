@@ -1,3 +1,19 @@
+# Drone Challenge
+
+First is to initialize the [backend](https://github.com/bigdatr/front-end-code-challenge). This should run on port 4001.
+
+```sh
+# make sure that your node version is 18.20
+nvm use 18.20
+
+# install dependencies
+yarn install
+
+# Run the api
+yarn dev
+```
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
