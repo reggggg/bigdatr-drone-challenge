@@ -13,6 +13,13 @@ yarn install
 yarn dev
 ```
 
+## Improvements for production ready app
+
+-   pagination or infinite scrolling for frontend if incase we fetch a big list 
+-   set the instructions in a URL search params for persistence
+-   optional: arrow keys for movement and space for capture as controls for easy trigger of drone action
+-   image optimization
+
 
 # React + TypeScript + Vite
 
